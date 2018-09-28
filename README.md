@@ -7,7 +7,6 @@ The dataset can be downloaded from  https://github.com/manoja328/tallyqa/blob/ma
   'image': 'VG_100K_2/2410408.jpg',
   'image_id': 92410408,
   'issimple': False,
-  'noun': ['bus', 'keyboard'],
   'question': 'How many headlights does the black bus have?',
   'question_id': 30095774}
 ```
