@@ -1,6 +1,6 @@
 # TallyQA Paper link https://arxiv.org/abs/1810.12440
 
-Please, download the dataset using this link https://github.com/manoja328/tallyqa/blob/master/tallyqa.zip?raw=true. The zip contains json files for train and test respectively. Each entries in the dataset contains the following fields:
+The dataset using [this link](https://github.com/manoja328/tallyqa/blob/master/tallyqa.zip?raw=true). The zipped file contains json files for train and test respectively. Each entries in the dataset contains the following fields:
 ```
  {'answer': 4,
   'data_source': 'imported_genome',
@@ -11,10 +11,9 @@ Please, download the dataset using this link https://github.com/manoja328/tallyq
   'question_id': 30095774}
 ```
 
-Fileds such as answer, image-id , image are as the name suggests. Besides, there is also  a flag ( **issimple**) to denote 
-whether the question is simple or complex, and  the field 'data_source' shows the source of the question-answer pair. All the images are from COCO and Visual Genome. The quesiton answer pairs have been derived from TDIUC, VQA2.0 and also using AMT annotators.
+Attributes such as *answer*, *image-id*, *image* ,*question* suggest the straighforward meanings. The boolean flag field ( **issimple**) denotes whether the question is simple (True)  or complex ( False) . The field 'data_source' shows the source of the question-answer pair. Those questios collected from AMT annotators have 'data_source' = 'amt'. The images used in the dataset are derived from COCO and Visual Genome. The imported quesiton answer pairs have been derived from [TDIUC](https://kushalkafle.com/projects/tdiuc.html) and VQA datasets.
 
-Please cite the work in Bibtex as:
+Please cite the work using the following Bibtex:
 ```
 @inproceedings{acharya2019tallyqa,
   title={TallyQA: Answering Complex Counting Questions},
