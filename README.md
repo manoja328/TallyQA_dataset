@@ -1,4 +1,4 @@
-# TallyQA
+# TallyQA https://arxiv.org/abs/1810.12440
 
 The dataset can be downloaded from  https://github.com/manoja328/tallyqa/blob/master/tallyqa.zip?raw=true. The zip contains json files for train and test respectively. Each entries in the dataset contains the following fields:
 ```
