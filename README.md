@@ -1,4 +1,4 @@
-# TallyQA Paper link https://arxiv.org/abs/1810.12440
+# TallyQA [Paper link](https://arxiv.org/abs/1810.12440)
 
 The dataset using [this link](https://github.com/manoja328/tallyqa/blob/master/tallyqa.zip?raw=true). The zipped file contains json files for train and test respectively. Each entries in the dataset contains the following fields:
 ```
