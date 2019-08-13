@@ -1,5 +1,7 @@
 # TallyQA [Paper link](https://arxiv.org/abs/1810.12440)
 
+## UPDATE: Code available at https://github.com/manoja328/tallyqacode
+
 Please, download the dataset using [this link](https://github.com/manoja328/tallyqa/blob/master/tallyqa.zip?raw=true). The zipped file contains json files for train and test respectively. Each entries in the dataset contains the following fields:
 ```
  {'answer': 4,
