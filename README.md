@@ -18,6 +18,7 @@ Attributes such as *answer*, *image-id*, *image* ,*question* should be straighfo
 The images used in the dataset are derived from [COCO](http://cocodataset.org/) and [Visual Genome](https://visualgenome.org/). The imported QA pairs have been derived from [TDIUC](https://kushalkafle.com/projects/tdiuc.html) and [VQA](https://visualqa.org/) datasets. All the images can be downloaded from the publicly available datasets below:
 * https://homes.cs.washington.edu/~ranjay/visualgenome/api.html (Visual Genome dataset)
 * https://visualqa.org/download.html (COCO train/val images)
+* HowmanyQA dataset can be downloaded from here  [HowmanyQA](https://github.com/sanyam5/irlc-vqa-counting/blob/master/tools/download_hmqa.sh )
 
 Please cite the work using the following Bibtex:
 ```
