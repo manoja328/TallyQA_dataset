@@ -13,7 +13,11 @@ Please, download the dataset using [this link](https://github.com/manoja328/tall
   'question_id': 30095774}
 ```
 
-Attributes such as *answer*, *image-id*, *image* ,*question* should be straighforward. The boolean flag field ( **issimple**) denotes whether the question is simple (True)  or complex ( False) . The field 'data_source' shows the source of the question-answer pair. Questions collected from AMT annotators have ```data_source = amt``` and likewise for other sources. The images used in the dataset are derived from [COCO](http://cocodataset.org/) and [Visual Genome](https://visualgenome.org/). The imported QA pairs have been derived from [TDIUC](https://kushalkafle.com/projects/tdiuc.html) and [VQA](https://visualqa.org/) datasets.
+Attributes such as *answer*, *image-id*, *image* ,*question* should be straighforward. The boolean flag field ( **issimple**) denotes whether the question is simple (True)  or complex ( False) . The field 'data_source' shows the source of the question-answer pair. Questions collected from AMT annotators have ```data_source = amt``` and likewise for other sources.
+## Images
+The images used in the dataset are derived from [COCO](http://cocodataset.org/) and [Visual Genome](https://visualgenome.org/). The imported QA pairs have been derived from [TDIUC](https://kushalkafle.com/projects/tdiuc.html) and [VQA](https://visualqa.org/) datasets. All the images can be downloaded from the publicly available datasets below:
+* https://homes.cs.washington.edu/~ranjay/visualgenome/api.html (Visual Genome dataset)
+* https://visualqa.org/download.html (COCO train/val images)
 
 Please cite the work using the following Bibtex:
 ```
