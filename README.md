@@ -1,5 +1,5 @@
 # TallyQA - [ AAAI 2019 Paper link](https://arxiv.org/abs/1810.12440)
-
+## Project page - https://www.manojacharya.com/tallyqa.html
 ## UPDATE: Code available at https://github.com/manoja328/tallyqacode
 
 ## TallyQA Stats
