@@ -26,7 +26,7 @@ Attributes such as `answer, image_id, image ,question` should be straighforward.
 The images used in the dataset are derived from [COCO](http://cocodataset.org/) and [Visual Genome](https://visualgenome.org/). All the images can be downloaded from the publicly available datasets below:
 * https://homes.cs.washington.edu/~ranjay/visualgenome/api.html (Visual Genome dataset)
 * https://visualqa.org/download.html (COCO train/val images)
-* HowmanyQA dataset can be downloaded using this script [HowmanyQA](https://github.com/sanyam5/irlc-vqa-counting/blob/master/tools/download_hmqa.sh )
+* HowmanyQA dataset can be downloaded from this repo or follow the setup instructions from [HowmanyQA](https://github.com/sanyam5/irlc-vqa-counting/blob/master/tools/download_hmqa.sh )
 
 Please cite the work using the following Bibtex:
 ```
